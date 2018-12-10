@@ -1,4 +1,4 @@
-#!C:\Users\Luker\PycharmProjects\notebook\venv\Scripts\python.exe
+#!C:\Users\Luk3r\Documents\GitHub\KCKSygnaly\venv\Scripts\python.exe
 # See http://cens.ioc.ee/projects/f2py2e/
 from __future__ import division, print_function
 

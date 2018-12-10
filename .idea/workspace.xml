@@ -9,8 +9,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/KCKsygnaly$notebook.coverage" NAME="notebook Coverage Results" MODIFIED="1544179409113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/notebook$notebook.coverage" NAME="notebook Coverage Results" MODIFIED="1543302605050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/KCKSygnaly$notebook.coverage" NAME="notebook Coverage Results" MODIFIED="1544443952730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/KCKsygnaly$notebook.coverage" NAME="notebook Coverage Results" MODIFIED="1544179409113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-524919534">
@@ -65,14 +66,45 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="701763985">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="194" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="194" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ipynb" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/Sygnaly-Lab1-clear.ipynb">
+        <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Sygnaly-Lab1-clear-checkpoint.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="10" />
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -81,13 +113,31 @@
         <entry file="file://$PROJECT_DIR$/Sygnaly-Lab1-clear.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="42" />
+              <selected id="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Sygnaly-Lab1-clear-checkpoint.ipynb">
+        <entry file="file://$PROJECT_DIR$/Sygnaly-Lab2-clear.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sygnaly-Lab2-clear2.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/Sygnaly-Lab1-clear.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -104,11 +154,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/notebook1.ipynb" />
         <option value="$PROJECT_DIR$/Sygnaly-Tutorial-clear.ipynb" />
+        <option value="$PROJECT_DIR$/Sygnaly-Lab2-clear2.ipynb" />
+        <option value="$PROJECT_DIR$/Sygnaly-Lab2-clear.ipynb" />
         <option value="$PROJECT_DIR$/Sygnaly-Lab1-clear.ipynb" />
       </list>
     </option>
@@ -135,13 +190,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="KCKsygnaly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KCKsygnaly" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KCKsygnaly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KCKsygnaly" type="462c0819:PsiDirectoryNode" />
-              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
+              <item name="KCKSygnaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KCKSygnaly" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,9 +231,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Luker\PycharmProjects\notebook\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -207,14 +257,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19757085" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13240556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49940357" visible="true" weight="0.3299532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,13 +273,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005964" side_tool="true" visible="true" weight="0.3299532" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32962227" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
@@ -264,6 +315,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/notebook1.ipynb" />
     <entry file="file://$PROJECT_DIR$/KCKsygnaly1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/test.ipynb" />
     <entry file="file://$PROJECT_DIR$/Sygnaly-Tutorial-clear.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -271,7 +323,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb" />
     <entry file="file://$USER_HOME$/Downloads/Sygnaly-Lab1-clear.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -286,10 +337,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Sygnaly-Lab2-clear.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sygnaly-Lab2-clear2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Sygnaly-Lab1-clear.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="42" />
+          <selected id="53" />
         </state>
       </provider>
     </entry>
